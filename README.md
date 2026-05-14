@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-# Hi,I'm Alina<br><br>I'm currently studying in Zhytomirska politechnica state university,<br/><br>I'm currently mastering my bachelor degree in Zhytomirska politechnica<br/><br>I have certified B2 level of English<br/><br>Programmer student with great designer skills<br/><br>I create websites and dekstopgames.<br/><br>Socials:<br>Linkedin:https://www.linkedin.com/in/alina-andronik-88a092352/<br>Gmail:alishka.amazing@ gmail.com <br>Top contributed repo:https://github.com/likar3400/CINEMA_DB_ASP.NET-MVC-PROJECT_WITH_ENTITY_CORE_FRAMEWORK__<br>Tech steck that I use:Typescript,C#,React,Boostrap,MySQL,MSQL,PHP,HTML,CSS,JS,C,Python.
+# Hi,I'm Alina<br><br>I'm currently studying in Zhytomirska politechnica state university,<br/><br>I'm currently mastering my bachelor degree in Zhytomyrska politechnich<br/><br>I have certified B2 level of English<br/><br>Programmer student with great designer skills<br/><br>I create websites and dekstopgames.<br/><br>Socials:<br>Linkedin:https://www.linkedin.com/in/alina-andronik-88a092352/<br>Gmail:alishka.amazing@ gmail.com <br>Top contributed repo:https://github.com/likar3400/CINEMA_DB_ASP.NET-MVC-PROJECT_WITH_ENTITY_CORE_FRAMEWORK__<br>Tech steck that I use:Typescript,C#,React,Boostrap,MySQL,MSQL,PHP,HTML,CSS,JS,C,Python.
 
 
 ## 🌐 Socials:
